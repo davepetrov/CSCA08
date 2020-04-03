@@ -5,4 +5,4 @@ Note: This repos. includes assignments completed in CSCA08 (2019 Fall term) - In
 ## Assignments
 Assignment 1: [Basic] Twitter API<br/>
 Assignment 2: [Basic] Geographical Elevation Map<br/>
-Assignment 3: [Basic] Stupid - Club matcher<br/>
+Assignment 3: [Basic] Student-Club matcher<br/>
