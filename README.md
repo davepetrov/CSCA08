@@ -1,4 +1,4 @@
-# a08
+# CSCA08
 
 Note: This repos. includes assignments completed in CSCA08 (2019 Fall term) - Introduction to Computer Science I
 ***
